@@ -1,3 +1,4 @@
+```
 usage: fuzz-fastboot.py [-h] [-l [LOG]] [-a [AVOID]] [-b [BASE]] [-f [MATCH_FAIL]] dictionary
 
 positional arguments:
@@ -12,5 +13,5 @@ optional arguments:
   -b [BASE], --base [BASE]
                         Base command, e.g. "oem"
   -f [MATCH_FAIL], --match_fail [MATCH_FAIL]
-                        Match string for failure
+                        Match string for failure```
 
